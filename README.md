@@ -7,3 +7,5 @@ Working only with:
 
 ## Demo on-line
 Show this sample on my website: https://webroad.dev/webspeechapi/demo
+
+![speech recognition](https://raw.githubusercontent.com/michalkortas/speech-recognition/master/screenshot.png)
